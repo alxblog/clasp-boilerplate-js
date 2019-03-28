@@ -7,3 +7,5 @@ function addMenu(){
       .addItem('First item', 'menuItem1')
       .addToUi();
 }
+
+function menuItem1() {}

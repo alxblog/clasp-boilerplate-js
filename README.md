@@ -24,3 +24,5 @@ Clasp Boilerplate is a Google Apps Script template for building Stand-alone scri
 - [Google Apps Script Samples](https://developers.google.com/apps-script/articles/)
 ### G Suite Add-on
 - [https://developers.google.com/gsuite/add-ons/overview](https://developers.google.com/gsuite/add-ons/overview)
+### Other
+- [https://www.lucidchart.com/techblog/2017/12/07/6-deadly-sins-google-apps-script-add-on/](https://www.lucidchart.com/techblog/2017/12/07/6-deadly-sins-google-apps-script-add-on/)
